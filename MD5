@@ -1,0 +1,15 @@
+f8f7b8964a3135d735932718243e5e1f *DESCRIPTION
+1549ee76429822ea941f62c6a5f6056b *NAMESPACE
+24fb55c8bba8034a7175ddfa470b1b15 *NEWS.md
+4134b53e43232c7fb7ebc944fe776443 *R/fetch_linkedInads.R
+532695787c252383dd52ffb4d3904710 *R/my_linkedInads_data.R
+287dc1c25505aaba05124a5e6a1d7ee8 *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+c4821cfeb35eaf2839f7d56c1e5d0b4d *data/my_linkedInads_data.RData
+0999bdfab07d96029ea5a89b29a00817 *inst/doc/tutorial.R
+a7610a4f950614c87623f8567ccdacac *inst/doc/tutorial.Rmd
+28fb790aee5e2e72be3af80f1cce65da *inst/doc/tutorial.html
+40d31c2c3eae3fac2069a6cb2b2db103 *man/fetch_linkedInads.Rd
+b33f714720b4aec99c60f21e44788706 *man/my_linkedInads_data.Rd
+c4821cfeb35eaf2839f7d56c1e5d0b4d *vignettes/my_linkedInads_data.RData
+a7610a4f950614c87623f8567ccdacac *vignettes/tutorial.Rmd
